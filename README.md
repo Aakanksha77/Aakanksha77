@@ -16,6 +16,8 @@ I’m a enthusiast programmer  with a strong interest in coding and a passion fo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aakanksha77&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakanksha77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=Aakanksha77&icon=0&color=4)](https://visitcount.itsvg.in)
+
 ---
 
 <h3 align="left">Connect with me:</h3>
