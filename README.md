@@ -7,7 +7,7 @@ I’m a enthusiast programmer  with a strong interest in coding and a passion fo
 ---
 
 ### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,mysql,cs,py,kotlin,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,mysql,cs,py,java,kotlin,github)](https://skillicons.dev)
 
 ---
 
